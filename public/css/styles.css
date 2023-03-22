@@ -40,3 +40,16 @@ header a {
 .portrait {
     width: 300px;
 }
+
+button {
+    color: white;
+    background: #888888;
+    height: 36px;
+    width: 70px;
+}
+
+input {
+    
+    height: 30px;
+    width: 200px;
+}
